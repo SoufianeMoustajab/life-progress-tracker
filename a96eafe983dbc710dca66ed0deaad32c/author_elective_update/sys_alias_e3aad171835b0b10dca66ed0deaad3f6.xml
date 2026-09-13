@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template display_value="Basic Auth Demo Configuration">cbdcec63b70333008321e916de11a96c</configuration_template>
+        <connection_type>sys_connection</connection_type>
+        <id>x_321864_life_pr_0.LPT___GitHub</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>LPT - GitHub</name>
+        <parent/>
+        <retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-13 19:42:55</sys_created_on>
+        <sys_id>e3aad171835b0b10dca66ed0deaad3f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_321864_life_pr_0.LPT___GitHub</sys_name>
+        <sys_package display_value="Life Progress Tracker" source="x_321864_life_pr_0">a96eafe983dbc710dca66ed0deaad32c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Life Progress Tracker">a96eafe983dbc710dca66ed0deaad32c</sys_scope>
+        <sys_update_name>sys_alias_e3aad171835b0b10dca66ed0deaad3f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-13 19:42:55</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Life Progress Tracker">a96eafe983dbc710dca66ed0deaad32c</application>
+        <file_path/>
+        <instance_id>607673dddbe2fdd8caf99027c596197d</instance_id>
+        <instance_name>dev213114</instance_name>
+        <name>sys_alias_e3aad171835b0b10dca66ed0deaad3f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template display_value="Basic Auth Demo Configuration">cbdcec63b70333008321e916de11a96c</configuration_template><connection_type>sys_connection</connection_type><id>x_321864_life_pr_0.LPT___GitHub</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>LPT - GitHub</name><parent/><retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-13 19:42:55</sys_created_on><sys_id>e3aad171835b0b10dca66ed0deaad3f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_321864_life_pr_0.LPT___GitHub</sys_name><sys_package display_value="Life Progress Tracker" source="x_321864_life_pr_0">a96eafe983dbc710dca66ed0deaad32c</sys_package><sys_policy/><sys_scope display_value="Life Progress Tracker">a96eafe983dbc710dca66ed0deaad32c</sys_scope><sys_update_name>sys_alias_e3aad171835b0b10dca66ed0deaad3f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-13 19:42:55</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-384864144</payload_hash>
+        <record_name>x_321864_life_pr_0.LPT___GitHub</record_name>
+        <reverted_from/>
+        <source>a16eafe983dbc710dca66ed0deaad335</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-13 19:42:55</sys_created_on>
+        <sys_id>5eead971835b0b10dca66ed0deaad38d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a09c4b4cee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-13 19:42:55</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>1eead971865b0b1006abf2ab043da38c</update_guid>
+        <update_guid_history>1eead971865b0b1006abf2ab043da38c:-384864144</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-13 20:02:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>0c7131a01c5e407384424405389501e1</sys_id>
+        <sys_metadata>e3aad171835b0b10dca66ed0deaad3f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_321864_life_pr_0.LPT___GitHub</sys_name>
+        <sys_package display_value="Life Progress Tracker" source="x_321864_life_pr_0">a96eafe983dbc710dca66ed0deaad32c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Life Progress Tracker">a96eafe983dbc710dca66ed0deaad32c</sys_scope>
+        <sys_scope_delete display_value="">045dc03d2b1047b78398f42579b36791</sys_scope_delete>
+        <sys_update_name>sys_alias_e3aad171835b0b10dca66ed0deaad3f6</sys_update_name>
+        <sys_update_version display_value="sys_alias_e3aad171835b0b10dca66ed0deaad3f6">5eead971835b0b10dca66ed0deaad38d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-13 20:02:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
