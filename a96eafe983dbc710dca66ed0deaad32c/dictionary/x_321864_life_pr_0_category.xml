@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8cbb4cbb831fc750dca66ed0deaad344" label="Goal Category" max_length="40" name="x_321864_life_pr_0_category" type="collection">
+        <element label="Description" max_length="500" name="description" type="string"/>
+        <element label="Icon" max_length="100" name="icon" type="string"/>
+        <element default="True" label="Active" mandatory="true" max_length="40" name="active" type="boolean"/>
+        <element default="100" label="Display order" max_length="40" name="display_order" type="integer"/>
+        <element label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+    </element>
+</database>
